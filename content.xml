@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508202006LEVR63</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050820200613QP8G</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CREAMOS NUESTRO CUENTO ILUSTRADO DIGITAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Destinado a la clase de 1º de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Isabel Rodríguez Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto consistirá en la creación de un cuento ilustrado digital con la aplicación educativa Book Creator destinado a un grupo de 1º de Primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778263923278</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mox86p1e-vn5xedgk1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1e-vn5xedgk1</odePageId>
+      <odeBlockId>block-1778179420458-axhm017fu</odeBlockId>
+      <blockName>¿En qué consiste el proyecto de esta SdA?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1e-vn5xedgk1</odePageId>
+          <odeBlockId>block-1778179420458-axhm017fu</odeBlockId>
+          <odeIdeviceId>idevice-1778179420454-hbv8ssqv8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/2.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/3.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/4.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/5.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/6.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/7.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/8.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/9.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/10.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/11.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/12.png" width="1536" height="864" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179420454-hbv8ssqv8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/2.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/3.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/4.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/5.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/6.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/7.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/8.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/9.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/10.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/11.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/12.png\" width=\"1536\" height=\"864\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1f-rdj6g3sre</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1f-rdj6g3sre</odePageId>
+      <odeBlockId>block-1778180464892-klz59oc4f</odeBlockId>
+      <blockName>TU IDENTIDAD DIGITAL, PROTEGE TUS DATOS</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1f-rdj6g3sre</odePageId>
+          <odeBlockId>block-1778180464892-klz59oc4f</odeBlockId>
+          <odeIdeviceId>idevice-1778180464889-r3rul06q1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TU IDENTIDAD DIGITAL (2)_page-0001.jpg" width="1536" height="3840" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180464889-r3rul06q1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TU IDENTIDAD DIGITAL (2)_page-0001.jpg\" width=\"1536\" height=\"3840\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1f-a2xty1tu7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTA BOOK CREATOR PARA CREAR NUESTRO CUENTO ILUSTRADO DIGITAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTA BOOK CREATOR PARA CREAR NUESTRO CUENTO ILUSTRADO DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTA BOOK CREATOR PARA CREAR NUESTRO CUENTO ILUSTRADO DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1f-a2xty1tu7</odePageId>
+      <odeBlockId>block-1778260883261-y1cujqxce</odeBlockId>
+      <blockName>Vídeo interactivo</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1f-a2xty1tu7</odePageId>
+          <odeBlockId>block-1778260883261-y1cujqxce</odeBlockId>
+          <odeIdeviceId>idevice-1778260883259-g4d2lvxja</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-1778260883259-g4d2lvxja" data-evaluationb="false" data-evaluationid="8b7616be-f00c-4cca-93ec-b90c28a13b0f"></div>			<div class="exe-interactive-video exe-interactive-video-no-results">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=i2Z1kSAMnm4?si=0ljpTAwRXaEItLkr">com/watch?v=i2Z1kSAMnm4?si=0ljpTAwRXaEItLkr</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[],"i18n":{"start":"Inicio","results":"Resultados","slide":"Diapositiva (fotograma)","score":"Puntuación","seen":"Visto","total":"Total","seeAll":"debe ver todo el contenido y contestar a las preguntas","noSlides":"El vídeo no tiene contenidos interactivos.","goOn":"Continuar","error":"Error","dataError":"Código no compatible","onlyOne":"Solo un vídeo interactivo por página.","cover":"Portada","fsWarning":"Salga del modo pantalla completa (tecla Esc) para ver la diapositiva","right":"¡Correcto!","wrong":"Incorrecto","sortableListInstructions":"Pinche y arrastre o use las flechas.","up":"Subir","down":"Bajar","rightAnswer":"Respuesta correcta:","notAnswered":"Por favor termine la actividad","check":"Comprobar","newWindow":"Ventana nueva","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgYouScore":"Su puntuación","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Vídeo interactivo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"8b7616be-f00c-4cca-93ec-b90c28a13b0f","ideviceID":"idevice-1778260883259-g4d2lvxja","poster":"{{context_path}}/content/resources/book-creator.png","title":"BOOK CREATOR","description":"","coverType":"poster","posterDescription":"book-creator.png"}				</script>			</div><p class="exe-interactive-video-poster sr-av"><img src="{{context_path}}/content/resources/book-creator.png" alt="book-creator.png" /></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox86p1f-a2xty1tu7</odePageId>
+      <odeBlockId>block-1778261074636-q1noqxn8c</odeBlockId>
+      <blockName>¿Por qué he elegido esta herramienta digital?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1f-a2xty1tu7</odePageId>
+          <odeBlockId>block-1778261074636-q1noqxn8c</odeBlockId>
+          <odeIdeviceId>idevice-1778261074635-8ckdm9icp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>He elegido esta herramienta porque es muy intuitiva y visual, lo que facilita que el alumnado de 1º de Primaria pueda participar activamente en la creación del cuento sin necesidad de tener una alta competencia digital. Pueden añadir texto, imágenes, dibujos e incluso grabar su voz, lo que hace que el proceso sea más dinámico y motivador.</p>
+<p>Además, Book Creator permite trabajar distintos lenguajes a la vez: el escrito, el visual y el oral. Esto es especialmente importante porque no todo el alumnado tiene el mismo nivel de expresión escrita, y así todos pueden aportar de alguna manera al producto final. También es un recurso muy útil para alumnado que no conoce bien el español, ya que el apoyo visual a través de imágenes y dibujos facilita la comprensión y les permite participar en la actividad sin depender únicamente del lenguaje escrito.</p>
+<p>También encaja muy bien con una metodología activa, motivadora y participativa que utilizo en mis clases, ya que el alumnado no solo consume contenido, sino que lo crea y se siente protagonista de su propio aprendizaje. De este modo, el aprendizaje tiene más sentido para ellos/as, al estar elaborando su propio cuento a partir de vocabulario y situaciones cotidianas de su vida diaria.</p>
+<p>En cuanto al contexto del centro, contamos con ordenadores Chromebooks y acceso a internet, lo que hace que su uso sea viable y accesible. Además, es una herramienta que funciona directamente en el navegador, por lo que no requiere instalaciones complejas y se adapta perfectamente a este tipo de dispositivos.</p>
+<p>Por otro lado, considero que es adecuada para la edad del alumnado porque permite un uso guiado pero también fomenta la autonomía progresiva, adaptándose a diferentes ritmos de aprendizaje.</p>
+<p>Finalmente, una de las ventajas que más valoro es que permite compartir fácilmente el producto final con las familias, lo que favorece la implicación de estas en el proceso educativo y da visibilidad al trabajo realizado en el aula.</p>
+<p>En definitiva, utilizo Book Creator porque permite crear un producto significativo, accesible y motivador, desarrollando al mismo tiempo la creatividad y la competencia digital del alumnado, ampliando así su vocabulario.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261074635-8ckdm9icp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>He elegido esta herramienta porque es muy intuitiva y visual, lo que facilita que el alumnado de 1º de Primaria pueda participar activamente en la creación del cuento sin necesidad de tener una alta competencia digital. Pueden añadir texto, imágenes, dibujos e incluso grabar su voz, lo que hace que el proceso sea más dinámico y motivador.</p>\n<p>Además, Book Creator permite trabajar distintos lenguajes a la vez: el escrito, el visual y el oral. Esto es especialmente importante porque no todo el alumnado tiene el mismo nivel de expresión escrita, y así todos pueden aportar de alguna manera al producto final. También es un recurso muy útil para alumnado que no conoce bien el español, ya que el apoyo visual a través de imágenes y dibujos facilita la comprensión y les permite participar en la actividad sin depender únicamente del lenguaje escrito.</p>\n<p>También encaja muy bien con una metodología activa, motivadora y participativa que utilizo en mis clases, ya que el alumnado no solo consume contenido, sino que lo crea y se siente protagonista de su propio aprendizaje. De este modo, el aprendizaje tiene más sentido para ellos/as, al estar elaborando su propio cuento a partir de vocabulario y situaciones cotidianas de su vida diaria.</p>\n<p>En cuanto al contexto del centro, contamos con ordenadores Chromebooks y acceso a internet, lo que hace que su uso sea viable y accesible. Además, es una herramienta que funciona directamente en el navegador, por lo que no requiere instalaciones complejas y se adapta perfectamente a este tipo de dispositivos.</p>\n<p>Por otro lado, considero que es adecuada para la edad del alumnado porque permite un uso guiado pero también fomenta la autonomía progresiva, adaptándose a diferentes ritmos de aprendizaje.</p>\n<p>Finalmente, una de las ventajas que más valoro es que permite compartir fácilmente el producto final con las familias, lo que favorece la implicación de estas en el proceso educativo y da visibilidad al trabajo realizado en el aula.</p>\n<p>En definitiva, utilizo Book Creator porque permite crear un producto significativo, accesible y motivador, desarrollando al mismo tiempo la creatividad y la competencia digital del alumnado, ampliando así su vocabulario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1g-e79j1zctl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ NECESITAMOS PARA HACER NUESTRO CUENTO?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ NECESITAMOS PARA HACER NUESTRO CUENTO?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ NECESITAMOS PARA HACER NUESTRO CUENTO?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1g-e79j1zctl</odePageId>
+      <odeBlockId>block-1778261288074-totg8dli1</odeBlockId>
+      <blockName>PADLET</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1g-e79j1zctl</odePageId>
+          <odeBlockId>block-1778261288074-totg8dli1</odeBlockId>
+          <odeIdeviceId>idevice-1778261288071-07nusitws</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-slideshow-embed" style="width: 720px; height: 480px;">
+<p style="padding: 0; margin: 0; width: 100%; height: 100%;"><iframe width="100" height="100" style="width: 100%; height: 100%; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ls3r8mermztrlnzo/slideshow?autoplay=0&loop=0&duration=auto" frameborder="0" allow="clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261288071-07nusitws","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-slideshow-embed\" style=\"width: 720px; height: 480px;\">\n<p style=\"padding: 0; margin: 0; width: 100%; height: 100%;\"><iframe width=\"100\" height=\"100\" style=\"width: 100%; height: 100%; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ls3r8mermztrlnzo/slideshow?autoplay=0&loop=0&duration=auto\" frameborder=\"0\" allow=\"clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1g-7mp2yd9yn</odePageId>
+  <odeParentPageId>page-mox86p1g-e79j1zctl</odeParentPageId>
+  <pageName>HERRAMIENTAS ÚTILES PARA DOCENTES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS ÚTILES PARA DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS ÚTILES PARA DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTAS ÚTILES PARA DOCENTES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1g-7mp2yd9yn</odePageId>
+      <odeBlockId>block-1778261405725-tc5leg2it</odeBlockId>
+      <blockName>Os comparto mi notion para que podáis ver mis herramientas digitales indispensables como docente</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1g-7mp2yd9yn</odePageId>
+          <odeBlockId>block-1778261405725-tc5leg2it</odeBlockId>
+          <odeIdeviceId>idevice-1778261405722-jyrxbys7w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link" title="HERRAMIENTAS DIGITALES DOCENTES">https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261405722-jyrxbys7w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link\" title=\"HERRAMIENTAS DIGITALES DOCENTES\">https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1h-8gr7avfjf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL DE ACTIVIDADES</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1h-8gr7avfjf</odePageId>
+      <odeBlockId>block-1778261687370-gtj3c6x16</odeBlockId>
+      <blockName>SECUENCIACIÓN DE LAS ACTIVIDADES</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1h-8gr7avfjf</odePageId>
+          <odeBlockId>block-1778261687370-gtj3c6x16</odeBlockId>
+          <odeIdeviceId>idevice-1778261687364-38s38gldm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/MAPA MENTAL.jpg" title="MAPA MENTAL" width="1310" height="687" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261687364-38s38gldm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/MAPA MENTAL.jpg\" title=\"MAPA MENTAL\" width=\"1310\" height=\"687\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA (EVALUACIÓN)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA (EVALUACIÓN)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA (EVALUACIÓN)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+      <odeBlockId>block-1778262387615-n9br8zq2c</odeBlockId>
+      <blockName>Criterios de evaluación asociados a las actividades</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+          <odeBlockId>block-1778262387615-n9br8zq2c</odeBlockId>
+          <odeIdeviceId>idevice-1778262387612-8fk4tcevp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262387612-8fk4tcevp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+      <odeBlockId>block-1778262676299-wh9kjjwyi</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+          <odeBlockId>block-1778262676299-wh9kjjwyi</odeBlockId>
+          <odeIdeviceId>idevice-1778262676296-g4t0itxzn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Rúbrica de Evaluación del Cuento Ilustrado</strong><br /><span style="color: #000000; background-color: #fbeeb8;">¿Qué es y para qué la utilizo?</span><br />La rúbrica es el instrumento principal que uso para evaluar el cuento ilustrado digital que cada alumno y alumna crea a lo largo del proyecto. Me permite tener una visión clara y organizada de lo que han aprendido, valorando tanto el camino recorrido como el resultado final. Es un instrumento que me da mucha información concreta: no solo sé si un niño o una niña ha llegado al objetivo, sino en qué punto del camino se encuentra y qué necesita para seguir avanzando.</p>
+<p><span style="background-color: #fbeeb8;">¿Cuándo la aplico?</span><br />La aplico en dos momentos clave del proyecto:</p>
+<ul>
+<li>Durante la tarea 5: cuando los niños y niñas están creando su cuento digital en Book Creator.</li>
+<li>Durante la tarea 6: cuando presentan su cuento oralmente al resto de la clase.</li>
+</ul>
+<p><span style="background-color: #fbeeb8;">¿Qué evalúo con ella?</span><br />A través de la rúbrica valoro seis aspectos fundamentales del proyecto:</p>
+<ul style="list-style-type: circle;">
+<li>La estructura del cuento: si tiene un inicio, un nudo y un desenlace claros.</li>
+<li>La coherencia del texto: si las ideas se entienden y tienen sentido entre sí.</li>
+<li>La creatividad de la historia: si la propuesta es original e imaginativa.</li>
+<li>La relación entre el texto y las ilustraciones: si se complementan y se apoyan.</li>
+<li>El uso de las herramientas digitales: si han sabido manejar Book Creator y Google Docs.</li>
+<li>La expresión oral en la exposición: si presentan su cuento con seguridad y claridad.</li>
+</ul>
+<p><strong>RÚBRICA</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip4.png" /></strong></p>
+<p><span style="background-color: #fbeeb8;">¿Cómo recojo la información?</span><br />Completo la rúbrica mientras observo directamente tanto el proceso de trabajo como el producto final, apoyándome en evidencias concretas: lo que han escrito en Google Docs, el cuento terminado en Book Creator y cómo lo presentan ante sus compañeros y compañeras. Para analizar los resultados utilizo cuatro niveles: Iniciado, En proceso, Conseguido y Avanzado. Esto me permite identificar fácilmente los puntos fuertes de cada alumno o alumna, detectar en qué aspectos necesitan más apoyo y ver qué dificultades son comunes en todo el grupo, como por ejemplo la estructuración del cuento o el uso de conectores.</p>
+<p><br /><span style="background-color: #fbeeb8;">¿Cómo trato las variables que pueden surgir?</span><br />Soy consciente de que en un aula de 1º de Primaria pueden darse muchas situaciones que influyen en los resultados: alumnado con necesidades específicas, diferentes ritmos de aprendizaje, dificultades con la lectoescritura o con el manejo de dispositivos digitales. Para ello, adapto los criterios de evaluación cuando es necesario, ofrezco más tiempo o apoyo individualizado y, en algunos casos, valoro el proceso por encima del producto.</p>
+<p><br /><span style="background-color: #fbeeb8;">¿Para qué me sirven los datos más allá de la nota?</span><br />Los datos que obtengo de la rúbrica no los uso solo para calificar, sino para mejorar mi práctica y acompañar mejor a mis alumnos y alumnas. Concretamente me sirven para:</p>
+<ul style="list-style-type: square;">
+<li>Adaptar futuras actividades de escritura según las dificultades detectadas.</li>
+<li>Reforzar aspectos que todo el grupo necesita trabajar, como la cohesión textual o el uso de conectores.</li>
+<li>Ofrecer un feedback claro, sencillo y útil a cada niño o niña.</li>
+<li>Informar a las familias del progreso real de sus hijos e hijas, con datos concretos y ejemplos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262676296-g4t0itxzn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Rúbrica de Evaluación del Cuento Ilustrado</strong><br /><span style=\"color: #000000; background-color: #fbeeb8;\">¿Qué es y para qué la utilizo?</span><br />La rúbrica es el instrumento principal que uso para evaluar el cuento ilustrado digital que cada alumno y alumna crea a lo largo del proyecto. Me permite tener una visión clara y organizada de lo que han aprendido, valorando tanto el camino recorrido como el resultado final. Es un instrumento que me da mucha información concreta: no solo sé si un niño o una niña ha llegado al objetivo, sino en qué punto del camino se encuentra y qué necesita para seguir avanzando.</p>\n<p><span style=\"background-color: #fbeeb8;\">¿Cuándo la aplico?</span><br />La aplico en dos momentos clave del proyecto:</p>\n<ul>\n<li>Durante la tarea 5: cuando los niños y niñas están creando su cuento digital en Book Creator.</li>\n<li>Durante la tarea 6: cuando presentan su cuento oralmente al resto de la clase.</li>\n</ul>\n<p><span style=\"background-color: #fbeeb8;\">¿Qué evalúo con ella?</span><br />A través de la rúbrica valoro seis aspectos fundamentales del proyecto:</p>\n<ul style=\"list-style-type: circle;\">\n<li>La estructura del cuento: si tiene un inicio, un nudo y un desenlace claros.</li>\n<li>La coherencia del texto: si las ideas se entienden y tienen sentido entre sí.</li>\n<li>La creatividad de la historia: si la propuesta es original e imaginativa.</li>\n<li>La relación entre el texto y las ilustraciones: si se complementan y se apoyan.</li>\n<li>El uso de las herramientas digitales: si han sabido manejar Book Creator y Google Docs.</li>\n<li>La expresión oral en la exposición: si presentan su cuento con seguridad y claridad.</li>\n</ul>\n<p><strong>RÚBRICA</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></strong></p>\n<p><span style=\"background-color: #fbeeb8;\">¿Cómo recojo la información?</span><br />Completo la rúbrica mientras observo directamente tanto el proceso de trabajo como el producto final, apoyándome en evidencias concretas: lo que han escrito en Google Docs, el cuento terminado en Book Creator y cómo lo presentan ante sus compañeros y compañeras. Para analizar los resultados utilizo cuatro niveles: Iniciado, En proceso, Conseguido y Avanzado. Esto me permite identificar fácilmente los puntos fuertes de cada alumno o alumna, detectar en qué aspectos necesitan más apoyo y ver qué dificultades son comunes en todo el grupo, como por ejemplo la estructuración del cuento o el uso de conectores.</p>\n<p><br /><span style=\"background-color: #fbeeb8;\">¿Cómo trato las variables que pueden surgir?</span><br />Soy consciente de que en un aula de 1º de Primaria pueden darse muchas situaciones que influyen en los resultados: alumnado con necesidades específicas, diferentes ritmos de aprendizaje, dificultades con la lectoescritura o con el manejo de dispositivos digitales. Para ello, adapto los criterios de evaluación cuando es necesario, ofrezco más tiempo o apoyo individualizado y, en algunos casos, valoro el proceso por encima del producto.</p>\n<p><br /><span style=\"background-color: #fbeeb8;\">¿Para qué me sirven los datos más allá de la nota?</span><br />Los datos que obtengo de la rúbrica no los uso solo para calificar, sino para mejorar mi práctica y acompañar mejor a mis alumnos y alumnas. Concretamente me sirven para:</p>\n<ul style=\"list-style-type: square;\">\n<li>Adaptar futuras actividades de escritura según las dificultades detectadas.</li>\n<li>Reforzar aspectos que todo el grupo necesita trabajar, como la cohesión textual o el uso de conectores.</li>\n<li>Ofrecer un feedback claro, sencillo y útil a cada niño o niña.</li>\n<li>Informar a las familias del progreso real de sus hijos e hijas, con datos concretos y ejemplos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+      <odeBlockId>block-1778263098006-sksdebbl9</odeBlockId>
+      <blockName>DIANA DE AUTOEVALUCIÓN DEL ALUMNADO</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1h-no0dhk5je</odePageId>
+          <odeBlockId>block-1778263098006-sksdebbl9</odeBlockId>
+          <odeIdeviceId>idevice-1778263098005-w287afu68</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="background-color: #c2e0f4;">¿Qué es y para qué la utilizo?</span><br />La diana de evaluación es un instrumento visual muy sencillo que me encanta usar con niños y niñas de 1º de Primaria porque les permite reflexionar sobre su propio aprendizaje de una forma guiada y accesible para su edad. Creo profundamente en el valor de la autoevaluación desde edades tempranas: que un niño o una niña de seis años sea capaz de decir "esto me ha costado mucho" o "esto lo he hecho muy bien" es el primer paso para convertirse en un aprendiz más consciente y autónomo.</p>
+<p><span style="background-color: #c2e0f4;">¿Cuándo la aplico?</span><br />La aplico en la tarea 7, al final del proyecto, una vez que el alumnado ha terminado y presentado su cuento. Es el momento ideal para hacer una parada, mirar atrás y reflexionar sobre todo lo que han vivido y aprendido durante las semanas que ha durado el proyecto.</p>
+<p><span style="background-color: #c2e0f4;">¿Qué evalúa el alumnado?</span><br />Cada alumno y alumna se valora a sí mismo en cuatro aspectos clave del proyecto:</p>
+<ul>
+<li>He entendido y creado mi cuento.</li>
+<li>He participado en la escritura.</li>
+<li>He creado las ilustraciones.</li>
+<li>He usado las herramientas digitales correctamente.</li>
+</ul>
+<p>   <img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><span style="background-color: #c2e0f4;">¿Cómo recojo la información?</span><br />Cada niño o niña marca su nivel en la diana, del centro hacia fuera, siempre de forma guiada por mí para asegurarme de que lo hacen con comprensión y sin agobios. El centro de la diana representa el nivel más bajo y el borde exterior el más alto. Se realizará con Google Forms adaptado a su nivel, con imágenes y un lenguaje muy sencillo.</p>
+<p><span style="background-color: #c2e0f4;">¿Cómo trato las variables que pueden surgir?</span><br />Con niños y niñas de seis años, la autoevaluación requiere mucha mediación por mi parte. Algunos tenderán a marcarse siempre en el nivel más alto porque quieren quedar bien, y otros, con menor autoestima, se valorarán por debajo de sus capacidades reales. Por eso acompaño el proceso con preguntas guiadas del tipo "¿recuerdas qué fue lo más difícil para ti?" o "¿hay algo que harías diferente la próxima vez?", para ayudarles a reflexionar de forma más ajustada y honesta. También tengo en cuenta que el alumnado con necesidades específicas puede necesitar que la diana se adapte visualmente o que la cumplimentemos juntos de forma individual.</p>
+<p><span style="background-color: #c2e0f4;">¿Cómo analizo los resultados y para qué me sirven?</span><br />Una vez recogidas todas las dianas, observo los patrones generales del grupo y los comparo con lo que yo he evaluado en la rúbrica. Esto me da información muy valiosa en varios sentidos:</p>
+<ul style="list-style-type: circle;">
+<li>Si hay mucha diferencia entre lo que el alumnado percibe y lo que yo he observado, puede indicar falta de autoconciencia o inseguridad, algo que necesito trabajar.</li>
+<li>Si la percepción coincide con mi evaluación, es señal de que el alumnado está desarrollando una buena capacidad de autorreflexión.</li>
+<li>Los datos me ayudan a ajustar mi enseñanza, mejorar la motivación del grupo y diseñar actividades más ajustadas a sus necesidades reales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263098005-w287afu68","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"background-color: #c2e0f4;\">¿Qué es y para qué la utilizo?</span><br />La diana de evaluación es un instrumento visual muy sencillo que me encanta usar con niños y niñas de 1º de Primaria porque les permite reflexionar sobre su propio aprendizaje de una forma guiada y accesible para su edad. Creo profundamente en el valor de la autoevaluación desde edades tempranas: que un niño o una niña de seis años sea capaz de decir \"esto me ha costado mucho\" o \"esto lo he hecho muy bien\" es el primer paso para convertirse en un aprendiz más consciente y autónomo.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cuándo la aplico?</span><br />La aplico en la tarea 7, al final del proyecto, una vez que el alumnado ha terminado y presentado su cuento. Es el momento ideal para hacer una parada, mirar atrás y reflexionar sobre todo lo que han vivido y aprendido durante las semanas que ha durado el proyecto.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Qué evalúa el alumnado?</span><br />Cada alumno y alumna se valora a sí mismo en cuatro aspectos clave del proyecto:</p>\n<ul>\n<li>He entendido y creado mi cuento.</li>\n<li>He participado en la escritura.</li>\n<li>He creado las ilustraciones.</li>\n<li>He usado las herramientas digitales correctamente.</li>\n</ul>\n<p>   <img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo recojo la información?</span><br />Cada niño o niña marca su nivel en la diana, del centro hacia fuera, siempre de forma guiada por mí para asegurarme de que lo hacen con comprensión y sin agobios. El centro de la diana representa el nivel más bajo y el borde exterior el más alto. Se realizará con Google Forms adaptado a su nivel, con imágenes y un lenguaje muy sencillo.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo trato las variables que pueden surgir?</span><br />Con niños y niñas de seis años, la autoevaluación requiere mucha mediación por mi parte. Algunos tenderán a marcarse siempre en el nivel más alto porque quieren quedar bien, y otros, con menor autoestima, se valorarán por debajo de sus capacidades reales. Por eso acompaño el proceso con preguntas guiadas del tipo \"¿recuerdas qué fue lo más difícil para ti?\" o \"¿hay algo que harías diferente la próxima vez?\", para ayudarles a reflexionar de forma más ajustada y honesta. También tengo en cuenta que el alumnado con necesidades específicas puede necesitar que la diana se adapte visualmente o que la cumplimentemos juntos de forma individual.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo analizo los resultados y para qué me sirven?</span><br />Una vez recogidas todas las dianas, observo los patrones generales del grupo y los comparo con lo que yo he evaluado en la rúbrica. Esto me da información muy valiosa en varios sentidos:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Si hay mucha diferencia entre lo que el alumnado percibe y lo que yo he observado, puede indicar falta de autoconciencia o inseguridad, algo que necesito trabajar.</li>\n<li>Si la percepción coincide con mi evaluación, es señal de que el alumnado está desarrollando una buena capacidad de autorreflexión.</li>\n<li>Los datos me ayudan a ajustar mi enseñanza, mejorar la motivación del grupo y diseñar actividades más ajustadas a sus necesidades reales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox86p1c-iijfap1c3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORÍA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox86p1c-iijfap1c3</odePageId>
+      <odeBlockId>block-1778178620924-tnscw7jp1</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox86p1c-iijfap1c3</odePageId>
+          <odeBlockId>block-1778178620924-tnscw7jp1</odeBlockId>
+          <odeIdeviceId>idevice-1778178620921-ii1aiikxf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="305" style="width: 99.954%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 16.421%;">Título</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-title">CREAMOS NUESTRO CUENTO ILUSTRADO DIGITAL</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-description">Este proyecto consistirá en la creación de un cuento ilustrado digital con la aplicación educativa Book Creator destinado a un grupo de 1º de Primaria.</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-author">Ana Isabel Rodríguez Fernández</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#5ae3e7;color:#000000;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
